@@ -16,6 +16,11 @@
   }
 }
 
+input {
+  background-color: inherit;
+  color: inherit;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
